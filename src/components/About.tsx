@@ -54,7 +54,7 @@ const About: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800">Education</h4>
-                  <p className="text-gray-600">Master's in Computer Science</p>
+                  <p className="text-gray-600">Master's in Data Analytics</p>
                 </div>
               </div>
               
